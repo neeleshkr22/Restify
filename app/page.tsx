@@ -167,7 +167,7 @@ export default function RestClient() {
   return (
     <div className="container mx-auto p-6 max-w-7xl">
       <div className="mb-8">
-        <h1 className="text-3xl font-bold mb-2">REST Client</h1>
+        <h1 className="text-3xl font-bold mb-2">Restify</h1>
         <p className="text-muted-foreground">A Postman-like REST API client with request history</p>
       </div>
 

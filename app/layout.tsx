@@ -8,7 +8,7 @@ import { Toaster } from "@/components/ui/toaster"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "REST Client",
+  title: "Restify",
   description: "A Postman-like REST API client with request history",
     generator: 'v0.dev'
 }
