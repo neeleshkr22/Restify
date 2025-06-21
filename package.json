@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",
-    "@mikro-orm/core": "latest",
+    "@mikro-orm/core": "^6.4.16",
     "@mikro-orm/postgresql": "^6.4.16",
     "@mikro-orm/sqlite": "latest",
     "@radix-ui/react-accordion": "1.2.2",
@@ -53,6 +53,7 @@
     "lucide-react": "^0.454.0",
     "next": "15.2.4",
     "next-themes": "^0.4.4",
+    "pg": "^8.16.2",
     "react": "^19",
     "react-day-picker": "8.10.1",
     "react-dom": "^19",
