@@ -10,7 +10,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Restify",
   description: "A Postman-like REST API client with request history",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
