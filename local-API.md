@@ -17,3 +17,6 @@ Body:
 {
   "title": "Updated Product"
 }
+
+
+/api/history?page=2&limit=10
